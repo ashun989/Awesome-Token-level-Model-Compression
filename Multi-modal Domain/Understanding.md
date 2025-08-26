@@ -338,4 +338,10 @@
 
   *Liu, Jizhihui and Du, Feiyi and Zhu, Guangdao and Lian, Niu and Li, Jun and Chen, Bin.*
 
-    [[Paper](https://arxiv.org/abs/2508.00553)] [[Code](https://github.com/Danielement321/HiPrune)] ![](https://img.shields.io/badge/HiPrune-blue) ![](https://img.shields.io/badgeVQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange) 
+    [[Paper](https://arxiv.org/abs/2508.00553)] [[Code](https://github.com/Danielement321/HiPrune)] ![](https://img.shields.io/badge/HiPrune-blue) ![](https://img.shields.io/badgeVQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[57]  Prune2Drive: A Plug-and-Play Framework for Accelerating Vision-Language Models in Autonomous Driving**, arXiv 2025.
+
+  *Xiong, Minhao and Wen, Zichen and Gu, Zhuangcheng and Liu, Xuyang and Zhang, Rui and Kang, Hengrui and Yang, Jiabing and Zhang, Junyuan and Li, Weijia and He, Conghui and Wang, Yafei and Zhang, Linfeng*
+
+    [[Paper](https://arxiv.org/pdf/2508.13305)] [[Code](https://github.com/qqqqiiuuss/Prune2Drive)] ![](https://img.shields.io/badge/Prune2Drive-blue) ![](https://img.shields.io/badgeVQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange) 
